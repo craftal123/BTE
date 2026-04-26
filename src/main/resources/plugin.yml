@@ -1,0 +1,10 @@
+name: BTE
+version: 1.0.0
+main: com.bte.InputFormatterPlugin
+api-version: '1.21'
+description: Converts number,number,numberM into number,number number
+author: craftal123
+commands:
+  convert:
+    description: Convert formatted coordinates
+    usage: /convert <number,number,numberM>
